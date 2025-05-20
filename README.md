@@ -15,7 +15,21 @@ O objetivo é demonstrar como os padrões de projeto podem ser aplicados a um si
 
 ## 📂 Estrutura do Projeto - Futura estrutura
 
-📦 banco-digital-api ┣ 📂 src ┃ ┣ 📂 main ┃ ┃ ┣ 📂 java/com/banco ┃ ┃ ┃ ┣ 📜 ConexaoBanco.java ┃ ┃ ┃ ┣ 📜 TaxaTransacao.java ┃ ┃ ┃ ┣ 📜 TaxaBancaria.java ┃ ┃ ┃ ┣ 📜 TaxaPremium.java ┃ ┃ ┃ ┣ 📜 GerenciadorTransacao.java ┃ ┃ ┃ ┣ 📜 TransacaoController.java ┃ ┃ ┗ 📜 Main.java ┣ 📜 README.md ┣ 📜 application.properties ┣ 📜 pom.xml ┗ 📜 .gitignore
+📦 banco-digital-api 
+┣ 📂 src 
+┃ ┣ 📂 main 
+┃ ┃ ┣ 📂 java/com/banco 
+┃ ┃ ┃ ┣ 📜 ConexaoBanco.java 
+┃ ┃ ┃ ┣ 📜 TaxaTransacao.java 
+┃ ┃ ┃ ┣ 📜 TaxaBancaria.java 
+┃ ┃ ┃ ┣ 📜 TaxaPremium.java 
+┃ ┃ ┃ ┣ 📜 GerenciadorTransacao.java 
+┃ ┃ ┃ ┣ 📜 TransacaoController.java 
+┃ ┃ ┗ 📜 Main.java 
+┣ 📜 README.md 
+┣ 📜 application.properties 
+┣ 📜 pom.xml 
+┗ 📜 .gitignore
 
 
 ## 🚀 Como Rodar o Projeto
